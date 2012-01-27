@@ -1,0 +1,29 @@
+body
+{
+    background: black;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-weight: bold;
+color: #FFF;
+}
+
+.hero-unit {
+  background-color: #333333;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+
+.gallery_image {
+    opacity: 0.5
+}
+
+.gallery_image:hover {
+    opacity: 1.0
+}
