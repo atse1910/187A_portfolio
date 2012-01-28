@@ -22,10 +22,11 @@ color: #FFF;
   margin-top: 60px;
   margin-bottom: 20px;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 10px; 
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
+  opacity: .5;
 }
 
 .gallery_image {
@@ -39,4 +40,7 @@ color: #FFF;
 .btn
 {
 color:gray;
+}
+
+.nav {
 }
