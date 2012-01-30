@@ -63,3 +63,10 @@ a.orange:hover {
 	border-radius: 15px;
 	
 }
+     /* Home */
+    /* Center Image Slider */
+    #image-slider{ 
+      width: 470px;
+      margin-left: auto;
+      margin-right: auto;
+    }

@@ -29,7 +29,6 @@
     <!-- Your Javascripts -->
     <script src="javascripts/main.js"></script>
 
-
   </head>
 
   <body>
@@ -40,12 +39,12 @@
 	<img src="images\header-logo.png" style="position:absolute;">
            <div class="span16">
            <ul class="nav">
-            <li><a href="index.html">Home</a></li>
+            <li class="active"><a href="#">Home</a></li>
             <li><a href="about.html">About</a></li>
             <li><a href="service.html">Our Services</a></li>
             <li><a href="work.html">Portfolio</a></li>
             <li><a href="http://www.facebook.com/a1tse">Blog</a></li>
-           <li class="active"><a href="contact.html">Contact</a></li>
+           <li><a href="contact.html">Contact</a></li>
           </ul>
           </div>
         </div>
@@ -56,32 +55,13 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
-      <div class="row" style="opacity: 1.0; height: 500px;">
-      <div class="span5" style="vertical-align: auto;">
-       <p style=" font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; font-color: white;">
-      
-      
-      <br><br>
-       <Br><br><br><strong>contact me:</strong>
-       <br>
-       <br>
-
-       Andy Tse<br>
-       8550 Costa Verde Blvd<br>
-       APT# 5403<br>
-       San Diego, CA 92122<br>
-       Telephone Number: (626) 278-3283<br>
-       <br>
-
-       e-mail: <a class="orange" href="mailto:andrewtse1019@gmail.com">andrewtse1019@gmail.com</a><br>
-       
+      <div class="row">
+      <div class="span5">
+        <img class="span5" src="images/logo.png"></img>
 		</div>
         <div class="span8" style="opacity: 1.0;"> <h1 align=right style="font-family:impact; letter-spacing: 4pt;">ANDY TSE </h1>
         <p align=right>designer || artist || scientist</p>
 
-<div class="span16">
-
-</div>
     </div> <!-- /container -->
 
   </body>
