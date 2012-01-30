@@ -102,3 +102,13 @@ margin-left: auto;
 	color: white;
 	font-size: 10pt;
 }
+.descrip {
+font-family: Georgia, "Times New Roman", Times, serif
+size: 10pt;
+color: white;	
+}
+p.descrip {
+font-family: Georgia, "Times New Roman", Times, serif
+size: 10pt;
+color: white;	
+}
